@@ -1,0 +1,6 @@
+projectKey=My_GroupId:My_ArtefactId
+serverUrl=http://localhost:9000
+serverVersion=7.3.0.15553
+dashboardUrl=http://localhost:9000/dashboard?id=My_GroupId%3AMy_ArtefactId
+ceTaskId=AWak6hKoPf_rhuG4Oeco
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWak6hKoPf_rhuG4Oeco
